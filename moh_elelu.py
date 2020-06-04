@@ -1,1 +1,6 @@
-print('Hello world, this is Taiye Elelu with HNGi7 ID HNG-1234 and email elelutaiwo2010@yahoo.com using python for stage 2 task.')
+name = 'Taiye Elelu'
+ID= 'HNG-1234'
+email = 'elelutaiwo2010@yahoo.com'
+program ='python'
+
+print(f'Hello world, this is {name} with HNGi7 ID {ID} and email {email} using {program} for stage 2 task.')
